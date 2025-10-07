@@ -1,0 +1,3 @@
+Image="Enter photo path here"
+MaxWidth=1920
+MaxHeight=1080
