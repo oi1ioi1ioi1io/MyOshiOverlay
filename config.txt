@@ -1,0 +1,3 @@
+Image=D:/사진/Stellive/GzSqeSYakAALltC.jpg
+MaxWidth=1920
+MaxHeight=600
